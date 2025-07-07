@@ -1,1 +1,1 @@
-# Code for my master thesis about forecasting with foundational models
+# The code of my master thesis about forecasting with foundational models
